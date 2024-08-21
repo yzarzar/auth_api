@@ -1,6 +1,6 @@
 # Spring Boot Security with JWT
 
-![Project Logo](https://via.placeholder.com/150x150?text=Your+Logo+Here)
+![Project Logo](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Oy1j4ekNjUVw1xswyQquGw.png)
 
 ## Overview
 
